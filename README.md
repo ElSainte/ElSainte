@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+-Iam currently a computer engineering student.
+-Iam currently learning programming languages mainly C++.
 <!--
 **ElSainte/ElSainte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
